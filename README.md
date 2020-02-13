@@ -11,6 +11,7 @@ Aplicación para simular un microservicio de comida el cual hay un cliente que p
 manda al repartidor.
 
 Simulación de una aplicación SOA:
+
   1.1. Solicitud de comida por parte del cliente.
   
   1.2 Recepción de órdenes en el restaurante.
